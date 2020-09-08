@@ -82,35 +82,35 @@ form {
 
 
 .match1 {
-    background-image: url(./images/lauren.jpg);
+    background-color: red;
 }
 
 .match2 {
-    background-image: url(./images/lizz.jpg);
+    background-color: blue;
 }
 
 .match3 {
-    background-image: url(./images/talia.jpg);
+    background-color: green;
 }
 
 .match4 {
-    background-image: url(./images/thomas.jpg);
+    background-color: yellow;
 }
 
 .match5 {
-    background-image: url(./images/phil.jpg);
+    background-color: orange;
 }
 
 .match6 {
-    background-image: url(./images/chelsea.jpg);
+    background-color: purple;
 }
 
 .match7 {
-    background-image: url(./images/susan.jpg);
+    background-color: white;
 }
 
 .match8 {
-    background-image: url(./images/winnie.png);
+    background-color: black;
 }
 
 .gameboard .overlay {
